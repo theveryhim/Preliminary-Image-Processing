@@ -1,6 +1,6 @@
 # Preliminary Image Processing
 
-Here we prform basic operations on a sample image
+Here we prform basic operations on a sample image <br>
 Further analysis are provided in notebook!
 ## Mirror
 <p align="center">
