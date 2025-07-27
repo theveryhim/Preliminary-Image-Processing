@@ -1,7 +1,7 @@
 # Preliminary Image Processing
 
 Here we prform basic operations on a sample image
-
+Further analysis are provided in notebook!
 ## Mirror
 <p align="center">
     <img src="images/1.png" alt="Descriptive Alt Text" class="fit-width-image">
